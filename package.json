@@ -1,0 +1,19 @@
+{
+  "name": "prova-automacao-b3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Lidia Bizarria Cutri",
+  "license": "ISC",
+  "devDependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "^17.1.1",
+    "@bahmutov/cypress-esbuild-preprocessor": "^2.2.0",
+    "@shelex/cypress-allure-plugin": "^2.39.1",
+    "cypress": "^12.13.0",
+    "esbuild": "^0.17.19"
+  }
+}
