@@ -1,15 +1,5 @@
 # Testes automatizados em BDD com Cypress
 
-## Pre-requisitos
-
-```
-$ node -v
-v18.13.0
-
-$ npm -v
-8.19.3
-```
-
 ## Instalação e configuração do projeto
 
 - Criar pasta do projeto local na máquina;
