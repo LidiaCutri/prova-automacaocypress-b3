@@ -5,7 +5,7 @@
 - Criar pasta do projeto local na máquina;
 - Acessar o prompt de comando na pasta criada e criar o arquivo package.json (npm init -y);
 - Instalar o Cypress (npm install cypress --save-dev);
-- Acesse o VScode e abra a pasta do projeto criado;
+- Acesse o VScode (code .) e abra a pasta do projeto criado;
 - Rode o Cypress (npx cypress open) - Assim que o cypress por iniciado será criado a estrutura de pastas;
 - Instalar a dependência: Esbuild (npm install esbuild @bahmutov/cypress-esbuild-preprocessor --save-dev);
 - Instalar a dependência: Cucumber (npm install @badeball/cypress-cucumber-preprocessor --save-dev);
